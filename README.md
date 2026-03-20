@@ -1,2 +1,3 @@
-# core-recipe-manager-7wfj
+# Core Recipe Manager 7Wfj
+
 A recipe management application for modern development workflows.
